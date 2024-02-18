@@ -31,8 +31,6 @@ VNC (Virtual Network Computing) là một công nghệ kĩ thuật dùng để c
 
 Công nghệ VNC Server sử dụng giao thức TCP và cổng 5900 trở lên. Nó hoạt động bằng cách ghi nhận nội dung framebuffer và chia sẻ chúng với VNC Client. 
 
-Nếu bạn cần điều khiển máy tính từ xa, VNC Server là một trong những phần mềm hữu ích nhất để giúp bạn thực hiện công việc của mình từ một nơi khác.
-
 VNC được phát triển tại Cambridge vào cuối những năm 1990 bởi những người sáng lập của RealVNC và đã trở thành một công nghệ phổ biến trong việc truy cập và điều khiển máy tính từ xa.
 
 
